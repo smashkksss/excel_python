@@ -1,0 +1,38 @@
+{
+        "timestamp": "2021-10-18T11:55:00Z",
+  "previous_timestamp": "2021-10-18T11:45:00Z",
+  "next_timestamp": "2021-10-18T12:05:00Z",
+  "data": [
+    {
+      "id": "4edd5ce090a3ec6192053b10d27b87b0",
+      "sport_key": "americanfootball_nfl",
+      "sport_title": "NFL",
+      "commence_time": "2021-10-19T00:15:00Z",
+      "home_team": "Tennessee Titans",
+      "away_team": "Buffalo Bills",
+      "bookmakers": [
+        {
+          "key": "draftkings",
+          "title": "DraftKings",
+          "last_update": "2021-10-18T11:48:09Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "last_update": "2021-10-18T11:48:09Z",
+              "outcomes": [
+                {
+                  "name": "Buffalo Bills",
+                  "price": -294
+                },
+                {
+                  "name": "Tennessee Titans",
+                  "price": 230
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
